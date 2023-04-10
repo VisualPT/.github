@@ -1,7 +1,5 @@
-# Official VisualPT Developer Hub
+## Updating the movement of data in physical therapy. 
 
-### We are focused on updating the movement in the physical therapy industry. 
+VisualPT mobile app feedback? [Share here](https://github.com/VisualPT/visualPT_site/issues/new/choose)
 
-If you are having an issue with the VisualPT application, [click here](https://github.com/VisualPT/visualPT_site/issues/new/choose)
-
-If you are looking for the marketing page, [click here](http://visualpt.ai)
+Looking for the marketing page? [Click here](http://visualpt.ai)
